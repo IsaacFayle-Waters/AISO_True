@@ -1,2 +1,4 @@
 # AISO_True
-Corse Work Submission. 
+Course Work Submission.
+Name: Isaac Fayle-Waters 
+ID: 16020297
