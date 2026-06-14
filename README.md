@@ -9,11 +9,11 @@ Course Work Submission for MSc Artificial Intelligence @ UWE
   -  Genetic Algorithm 
 
 ### Inheritance & Operators 
-The algorithms inherit basic functions from the main TSP problem class:
-- TSP environment set-up, including distance matrix between cities,
-- Objective Function
-Also included in the TSP class are shared operators and visualisation functions:
-- Generate an initial random solution
-- City Swaps
-- Convergence graph
-- Solution visualisation graphs  
+- The algorithms inherit basic functions from the main TSP problem class:
+  - TSP environment set-up, including distance matrix between cities,
+  - Objective Function
+- Also included in the TSP class are shared operators and visualisation functions:
+  - Generate an initial random solution
+  - City Swaps
+  - Convergence graph
+  - Solution visualisation graphs  
